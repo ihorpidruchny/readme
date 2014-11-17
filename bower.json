@@ -1,0 +1,14 @@
+{
+  "name": "readme",
+  "version": "0.1.0",
+  "authors": [
+    "Jorge Bucaran <jbucaran@me.com>"
+  ],
+  "description": "A very neat README boilerplate.",
+  "main": "README.md",
+  "keywords": [
+    "readme"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bucaran/readme/blob/master/README.md"
+}
