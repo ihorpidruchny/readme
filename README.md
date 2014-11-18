@@ -15,7 +15,7 @@ What is this? Don't expect potential users to go through your code without prior
 * Don't skimp on hyperlinks. Google it for me. Add references to everything.
 * Credit where it's due. We are all standing on the shoulders of giants.
 
-Your _readme_ is not a blog post, if you want to compare your project to pirates or ninjas you have more than [several social artifacts](SocialMedia) at your disposal to express your creativity.
+Your [readme][WikiReadme] is not a blog post, if you want to compare your project to pirates or ninjas you have more than [several social artifacts](SocialMedia) at your disposal to express your creativity.
 
 Writing technical specs should be akin to writing ellegant algorithms. Be eloquent, but use [simple][SimpleWiki] vocabulary if you can.
 
