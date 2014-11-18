@@ -17,7 +17,7 @@ What is this? Don't expect potential users to go through your code without prior
 
 Your [readme][WikiReadme] is not a blog post, if you want to compare your project to pirates or ninjas you have more than [several social artifacts](SocialMedia) at your disposal to express your creativity.
 
-Writing technical specs should be akin to writing ellegant algorithms. Be eloquent, but use [simple][SimpleWiki] vocabulary if you can.
+Writing technical specs should be akin to writing elegant algorithms. Be eloquent, but use [simple][SimpleWiki] vocabulary if you can.
 
 ## Why?
 
