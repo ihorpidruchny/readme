@@ -34,6 +34,10 @@ awe.befill(function(obj) {
 });
 ```
 
+## Templates
+
+  * [Simple][ReadmeSimple]
+
 ## Api
 ### `Namespace.awesome`
 
@@ -69,3 +73,5 @@ Comments, feedback and / or pull requests are always [welcome][Issues]. Fork, co
 [LicensePicker]: https://help.github.com/articles/open-source-licensing/#how-can-i-go-back-through-my-public-repositories-and-give-them-licenses
 [ListOfLicenses]: http://en.wikipedia.org/wiki/List_of_software_licenses
 [GithubHelp]: https://help.github.com/
+
+[ReadmeSimple]: http://github.com/bucaran/readme/templates/simple.md
