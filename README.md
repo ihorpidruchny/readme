@@ -74,4 +74,4 @@ Comments, feedback and / or pull requests are always [welcome][Issues]. Fork, co
 [ListOfLicenses]: http://en.wikipedia.org/wiki/List_of_software_licenses
 [GithubHelp]: https://help.github.com/
 
-[ReadmeSimple]: http://github.com/bucaran/readme/templates/simple.md
+[ReadmeSimple]: https://github.com/bucaran/readme/blob/master/templates/simple.md
