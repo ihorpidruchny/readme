@@ -17,12 +17,7 @@
 <p>hello, world</p>
 ```
 
-## Other Resources
-
-  * 
-  * 
-
-## Help
+## Contributing
 
 Comments, feedback and / or pull requests are always [welcome][Issues]. Fork, commit, and [open a pull request][PR].
 
